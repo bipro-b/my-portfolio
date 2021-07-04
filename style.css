@@ -35,11 +35,11 @@ h2{
 }
 
 .top-banner{
-    background-image: url(/img/top-banner.png);
+    background-image: url(./img/top-banner.png);
     background-repeat: no-repeat;
 }
 .big-dream{
-background-image: url(/img/dream-bg.png);
+background-image: url(./img/dream-bg.png);
 background-repeat: no-repeat;
 background-position: right;
 }
@@ -54,7 +54,7 @@ background-position: right;
 }
 
 .experience-area{
-    background-image: url(/img/exp-bg.png);
+    background-image: url(./img/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
 
