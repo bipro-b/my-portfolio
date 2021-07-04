@@ -60,13 +60,14 @@ background-position: right;
 
 }
 #full-stuck{
-    border-left: 7px solid;
-    border-image: linear-gradient(rgb(197, 88, 197) rgb(188, 223, 188));
+    border-left: 7px solid rgb(90, 68, 64);
+    border-image: linear-gradient(salmon tomato);
      border-image-slice: 1;
 }
 #baby-web{
-    border-left: 7px solid;
-    border-image: linear-gradient(rgb(15, 15, 236) rgb(143, 186, 241));
+   
+    border-left: 7px solid blue;
+    border-image: linear-gradient(blue cyan);
      border-image-slice: 1;
 }
 footer p{
