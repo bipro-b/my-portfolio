@@ -69,6 +69,7 @@ background-position: right;
     border-left: 7px solid blue;
     border-image: linear-gradient(blue cyan);
      border-image-slice: 1;
+    
 }
 footer p{
     text-align: center;
