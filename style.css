@@ -60,14 +60,14 @@ background-position: right;
 
 }
 #full-stuck{
-    border-left: 7px solid rgb(90, 68, 64);
-    border-image: linear-gradient(salmon tomato);
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(71, 45, 42), tomato);
      border-image-slice: 1;
 }
 #baby-web{
    
-    border-left: 7px solid blue;
-    border-image: linear-gradient(blue cyan);
+    border-left: 7px solid;
+    border-image: linear-gradient(blue,cyan);
      border-image-slice: 1;
     
 }
